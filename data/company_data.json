@@ -1,0 +1,42 @@
+[
+  {
+    "id": "doc1",
+    "title": "TechCorp Company Profile",
+    "content": "TechCorp is a software company founded in 2010, specializing in AI solutions for enterprise clients. The company has 500 employees across 5 global offices in San Francisco (HQ), London, Singapore, Tokyo, and Berlin. TechCorp's mission is to make AI accessible and useful for businesses of all sizes."
+  },
+  {
+    "id": "doc2",
+    "title": "TechCorp Products",
+    "content": "TechCorp offers three main products: TechAssist (an AI customer service solution), DataInsight (an analytics platform), and CloudSecure (a security solution). TechAssist is currently on version 4.2 and was first released in 2015. DataInsight is on version 3.0 and was launched in 2018. CloudSecure is the newest product, released in 2020 and currently on version 2.5."
+  },
+  {
+    "id": "doc3",
+    "title": "TechCorp Leadership",
+    "content": "TechCorp's leadership team includes CEO Dr. Sarah Chen (former AI researcher at Stanford), CTO Michael Rodriguez (previously at Google), CFO Jennifer Park (former investment banker), COO David Wilson (previously at Microsoft), and VP of Sales Thomas Brown (previously at Salesforce)."
+  },
+  {
+    "id": "doc4",
+    "title": "TechCorp Recent News",
+    "content": "TechCorp announced a new partnership with GlobalTech in March 2025 to expand their AI solutions to the healthcare sector. The company also opened a new R&D center in Toronto in January 2025 and is planning to go public with an IPO in late 2025."
+  },
+  {
+    "id": "doc5",
+    "title": "TechCorp Investors",
+    "content": "TechCorp has raised $120 million in venture capital funding across three rounds. Major investors include Sequoia Capital, Andreessen Horowitz, and SoftBank Vision Fund. The company's latest Series C round in 2023 valued the company at $1.2 billion."
+  },
+  {
+    "id": "doc6",
+    "title": "TechCorp Clients",
+    "content": "TechCorp serves over 200 enterprise clients across various industries including finance, healthcare, retail, and manufacturing. Notable clients include Bank of America, Mayo Clinic, Target, and Toyota. The company has a 95% client retention rate."
+  },
+  {
+    "id": "doc7",
+    "title": "TechCorp Technology Stack",
+    "content": "TechCorp's products are built using a modern technology stack including Python, TensorFlow, PyTorch, React, Node.js, and AWS. The company has developed proprietary algorithms for natural language processing, computer vision, and predictive analytics."
+  },
+  {
+    "id": "doc8",
+    "title": "TechCorp Awards and Recognition",
+    "content": "TechCorp has received numerous awards including 'Most Innovative AI Company' by Tech Review in 2024, 'Best Enterprise AI Solution' by AI Global in 2023, and was listed in Forbes' 'Next Billion-Dollar Startups' in 2022."
+  }
+]
