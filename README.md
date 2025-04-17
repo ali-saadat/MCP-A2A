@@ -2,6 +2,9 @@
 
 This Streamlit application provides an educational and interactive showcase for Agent-to-Agent (A2A) and Model Context Protocol (MCP) technologies. It demonstrates how these protocols work and how they can be integrated to create powerful AI agent systems.
 
+![image](https://github.com/user-attachments/assets/a1886391-aca7-4832-9bb0-d1ed3ac30e9c)
+
+
 ## Features
 
 - **Educational Foundation**: Learn about A2A and MCP protocols, their architecture, and use cases
